@@ -1,0 +1,4 @@
+template
+========
+
+Simple template class
